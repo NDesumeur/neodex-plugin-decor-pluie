@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorpluie",
+  "repo": "NDesumeur/neodex-plugin-decor-pluie",
+  "version": "1.0.0",
+  "sha256": "18f5b71c48875b3e6600d494f89c28302b40159a28308f34da4609caae25624b",
+  "approvedAt": "2026-11-22T19:05:25.725Z",
+  "neobase": ">=4.1.0",
+  "signature": "rk3D8ufzE7NqnvA+AOYIW0nhCN4CMoFyMBMryR/lfbLKoFCl7C+NSt9+pQDtiWCd94T/V+mXUiwYKaiN7XXpCA=="
+}
